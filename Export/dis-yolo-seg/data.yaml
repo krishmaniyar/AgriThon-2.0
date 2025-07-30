@@ -1,0 +1,6 @@
+names:
+  0: leaf
+  1: diseased-leaf
+  2: insect
+path: .
+train: train.txt

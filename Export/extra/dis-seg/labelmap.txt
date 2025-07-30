@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+diseased-leaf:82,56,6::
+insect:192,192,224::
+leaf:81,230,39::

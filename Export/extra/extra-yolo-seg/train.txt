@@ -1,0 +1,10 @@
+data/images/train/insect51.jpg
+data/images/train/insect52.jpg
+data/images/train/insect53.jpg
+data/images/train/insect54.jpg
+data/images/train/insect55.jpg
+data/images/train/insect56.jpg
+data/images/train/insect57.jpg
+data/images/train/insect58.jpg
+data/images/train/insect59.jpg
+data/images/train/insect60.jpg
